@@ -1,0 +1,40 @@
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	text-decoration: 
+}
+.main-logo {
+
+display: block;
+margin: 80px auto 20px auto;
+width: 400px;
+}
+
+.search-box {
+	display: block;
+	margin: 0 auto 20px auto;
+	width: 450px;
+	padding: 10px 10px;
+	border: 1px solid black;
+	box-shadow: 1px 1px #a1a1a1;
+}
+
+
+.container-buttons {
+	text-align: center;
+}
+
+.action-buttons {
+	padding: 10px 20px;
+	border: 0;
+	background-color: #999999;
+	color: #666666; 
+	font-weight: bolder;
+}
+
+.container-language {
+	text-align: center;
+}
